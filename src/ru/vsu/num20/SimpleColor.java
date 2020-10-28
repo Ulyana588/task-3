@@ -1,6 +1,6 @@
 package ru.vsu.num20;
 
-public enum  SimpleColor {
+public enum SimpleColor {
     BLUE,
     YELLOW,
     WHITE,

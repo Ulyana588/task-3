@@ -11,7 +11,7 @@ public class Parabola {
         this.a = a;
     }
 
-    public boolean isRightOfParabola(double x, double y){
+    public boolean isRightOfParabola(double x, double y) {
         return x > a * Math.pow(y - y0, 2) + x0;
     }
 }
